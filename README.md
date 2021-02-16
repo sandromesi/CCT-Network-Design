@@ -1,4 +1,5 @@
 # DPL Network Design
+![Network Design](https://github.com/sandromesi/CCT-Network-Design/blob/main/Network%20Design.png)
 
 This project consists in a highly available and fault tolerant computer network designed for the Final Project for the Higher Diploma in Science in Computer course at CCT College Dublin.
 
